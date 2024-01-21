@@ -1,0 +1,16 @@
+.light-theme {
+  background: #ffffff;
+  color: #000000;
+  padding: 10px;
+}
+
+.dark-theme {
+  background: #000000;
+  color: #ffffff;
+  padding: 10px;
+}
+
+button {
+  margin-top: 10px;
+  cursor: pointer;
+}
